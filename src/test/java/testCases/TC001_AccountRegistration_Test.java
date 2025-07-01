@@ -28,7 +28,7 @@ public class TC001_AccountRegistration_Test extends BaseClass{
 	{
 		logger.info("Starting verify account test");
 		
-		try {
+		
 		
 			
 			logger.info("Starting of test method verify_account_register" );
@@ -69,7 +69,7 @@ public class TC001_AccountRegistration_Test extends BaseClass{
 	//	int num_students=10;
 		
 		
-		
+		try {
 		
 		}
 		catch(Exception e)
