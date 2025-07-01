@@ -18,7 +18,6 @@
 <configuration>
 <suiteXmlFiles>
 <suiteXmlFile>master.xml</suiteXmlFile>
-<suiteXmlFile>master2.xml</suiteXmlFile>
 </suiteXmlFiles>
 </configuration>
 </plugin>
