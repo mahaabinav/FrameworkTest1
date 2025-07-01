@@ -1,0 +1,20 @@
+<suite name="Suite">
+<groups>
+<run>
+<include name="Master"/>
+</run>
+</groups>
+<listeners>
+<listener class-name="utilities.ExtentReportManager"/>
+</listeners>
+<test thread-count="5" name="Test">
+<parameter name="os" value="windows"/>
+<parameter name="browser" value="chrome"/>
+<classes>
+<class name="testCases.TC001_AccountRegistration_Test"/>
+<class name="testCases.TC_002_LoginTest"/>
+</classes>
+</test>
+<!--  Test  -->
+</suite>
+<!--  Suite  -->

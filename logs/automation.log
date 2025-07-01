@@ -1,0 +1,69 @@
+2025-06-24 23:43:44 INFO  TC_002_LoginTest:24 - **** Starting TC_002_LoginTest  ****
+2025-06-24 23:43:44 DEBUG TC_002_LoginTest:25 - capturing application debug logs....
+2025-06-24 23:43:44 INFO  TC_002_LoginTest:31 - clicked on myaccount link on the home page..
+2025-06-24 23:43:45 INFO  TC_002_LoginTest:33 - clicked on login link under myaccount..
+2025-06-24 23:43:45 INFO  TC_002_LoginTest:37 - Entering valid email and password..
+2025-06-24 23:43:46 INFO  TC_002_LoginTest:41 - clicked on ligin button..
+2025-06-24 23:43:46 INFO  TC_002_LoginTest:55 - **** Finished TC_002_LoginTest  ****
+2025-06-24 23:46:21 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\Abi05\eclipse-workspace\FrameworkTest1\paralleltests.xml"
+2025-06-24 23:46:21 WARN  TestNGContentHandler:133 - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\Abi05\eclipse-workspace\FrameworkTest1\paralleltests.xml] otherwise TestNG may fail or not work as expected.
+2025-06-24 23:46:21 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Abi05\eclipse-workspace\FrameworkTest1\paralleltests.xml
+
+2025-06-24 23:46:24 INFO  TC_002_LoginTest:24 - **** Starting TC_002_LoginTest  ****
+2025-06-24 23:46:24 DEBUG TC_002_LoginTest:25 - capturing application debug logs....
+2025-06-24 23:46:25 INFO  TC_002_LoginTest:31 - clicked on myaccount link on the home page..
+2025-06-24 23:46:25 INFO  TC_002_LoginTest:33 - clicked on login link under myaccount..
+2025-06-24 23:46:25 INFO  TC_002_LoginTest:37 - Entering valid email and password..
+2025-06-24 23:46:28 INFO  TC_002_LoginTest:24 - **** Starting TC_002_LoginTest  ****
+2025-06-24 23:46:28 DEBUG TC_002_LoginTest:25 - capturing application debug logs....
+2025-06-24 23:46:28 INFO  TC_002_LoginTest:31 - clicked on myaccount link on the home page..
+2025-06-24 23:46:29 INFO  TC_002_LoginTest:33 - clicked on login link under myaccount..
+2025-06-24 23:46:29 INFO  TC_002_LoginTest:37 - Entering valid email and password..
+2025-06-24 23:46:30 INFO  TC_002_LoginTest:41 - clicked on ligin button..
+2025-06-24 23:46:30 INFO  TC_002_LoginTest:55 - **** Finished TC_002_LoginTest  ****
+2025-06-24 23:46:36 INFO  TC_002_LoginTest:24 - **** Starting TC_002_LoginTest  ****
+2025-06-24 23:46:36 DEBUG TC_002_LoginTest:25 - capturing application debug logs....
+2025-06-24 23:51:56 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\Abi05\eclipse-workspace\FrameworkTest1\paralleltests.xml"
+2025-06-24 23:51:56 WARN  TestNGContentHandler:133 - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\Abi05\eclipse-workspace\FrameworkTest1\paralleltests.xml] otherwise TestNG may fail or not work as expected.
+2025-06-24 23:51:57 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Abi05\eclipse-workspace\FrameworkTest1\paralleltests.xml
+
+2025-06-24 23:52:00 INFO  TC_002_LoginTest:24 - **** Starting TC_002_LoginTest  ****
+2025-06-24 23:52:00 DEBUG TC_002_LoginTest:25 - capturing application debug logs....
+2025-06-24 23:52:01 INFO  TC_002_LoginTest:31 - clicked on myaccount link on the home page..
+2025-06-24 23:52:01 INFO  TC_002_LoginTest:33 - clicked on login link under myaccount..
+2025-06-24 23:52:01 INFO  TC_002_LoginTest:37 - Entering valid email and password..
+2025-06-24 23:52:02 INFO  TC_002_LoginTest:24 - **** Starting TC_002_LoginTest  ****
+2025-06-24 23:52:02 DEBUG TC_002_LoginTest:25 - capturing application debug logs....
+2025-06-24 23:52:02 INFO  TC_002_LoginTest:31 - clicked on myaccount link on the home page..
+2025-06-24 23:52:02 INFO  TC_002_LoginTest:41 - clicked on ligin button..
+2025-06-24 23:52:03 INFO  TC_002_LoginTest:33 - clicked on login link under myaccount..
+2025-06-24 23:52:03 INFO  TC_002_LoginTest:37 - Entering valid email and password..
+2025-06-24 23:52:05 INFO  TC_002_LoginTest:24 - **** Starting TC_002_LoginTest  ****
+2025-06-24 23:52:05 DEBUG TC_002_LoginTest:25 - capturing application debug logs....
+2025-06-24 23:52:06 INFO  TC_002_LoginTest:31 - clicked on myaccount link on the home page..
+2025-06-24 23:52:06 INFO  TC_002_LoginTest:33 - clicked on login link under myaccount..
+2025-06-24 23:52:06 INFO  TC_002_LoginTest:37 - Entering valid email and password..
+2025-06-24 23:52:07 INFO  TC_002_LoginTest:41 - clicked on ligin button..
+2025-06-24 23:52:07 INFO  TC_002_LoginTest:55 - **** Finished TC_002_LoginTest  ****
+2025-06-24 23:52:14 INFO  TC_002_LoginTest:41 - clicked on ligin button..
+2025-06-24 23:55:24 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\Abi05\eclipse-workspace\FrameworkTest1\paralleltests.xml"
+2025-06-24 23:55:24 WARN  TestNGContentHandler:133 - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\Abi05\eclipse-workspace\FrameworkTest1\paralleltests.xml] otherwise TestNG may fail or not work as expected.
+2025-06-24 23:55:24 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Abi05\eclipse-workspace\FrameworkTest1\paralleltests.xml
+
+2025-06-24 23:55:27 INFO  TC_002_LoginTest:24 - **** Starting TC_002_LoginTest  ****
+2025-06-24 23:55:27 DEBUG TC_002_LoginTest:25 - capturing application debug logs....
+2025-06-24 23:55:28 INFO  TC_002_LoginTest:31 - clicked on myaccount link on the home page..
+2025-06-24 23:55:29 INFO  TC_002_LoginTest:33 - clicked on login link under myaccount..
+2025-06-24 23:55:29 INFO  TC_002_LoginTest:37 - Entering valid email and password..
+2025-06-24 23:55:33 INFO  TC_002_LoginTest:24 - **** Starting TC_002_LoginTest  ****
+2025-06-24 23:55:33 DEBUG TC_002_LoginTest:25 - capturing application debug logs....
+2025-06-24 23:55:33 INFO  TC_002_LoginTest:31 - clicked on myaccount link on the home page..
+2025-06-24 23:55:33 INFO  TC_002_LoginTest:33 - clicked on login link under myaccount..
+2025-06-24 23:55:33 INFO  TC_002_LoginTest:37 - Entering valid email and password..
+2025-06-24 23:55:34 INFO  TC_002_LoginTest:41 - clicked on ligin button..
+2025-06-24 23:55:34 INFO  TC_002_LoginTest:55 - **** Finished TC_002_LoginTest  ****
+2025-06-24 23:55:39 INFO  TC_002_LoginTest:24 - **** Starting TC_002_LoginTest  ****
+2025-06-24 23:55:39 DEBUG TC_002_LoginTest:25 - capturing application debug logs....
